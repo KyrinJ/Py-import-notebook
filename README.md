@@ -1,9 +1,7 @@
 # Py-import-notebook
 
-#1
-bs4文件夹复制到 Lib/site-packages
-Tools/scripts/2to3.py 
-
+Python2.7 installing packages of bs4,requests,lxml
+for web scraping
 
 
 
